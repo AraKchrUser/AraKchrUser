@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
     
-    <a href="armen0101017@gmail.com">
+    <a href="https://t.me/kocharyan_x_armen">
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=blue" alt="Gmail Badge"/>
   </a>
     

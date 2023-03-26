@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
     
+  <a href="https://leetcode.com/armen0101017/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=black&style=for-the-badge" alt="Leetcode Badge"/>
+  </a>
+    
 </div>
   
   <img src="https://komarev.com/ghpvc/?username=AraKchrUser&style=flat-square&color=blue" alt=""/>

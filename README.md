@@ -35,7 +35,7 @@
   <img src="https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif" width="35%" height="35%"/>
 </div>
 
-
+---
 
 ### :man_technologist: About Me :
 

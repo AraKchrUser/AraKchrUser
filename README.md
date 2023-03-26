@@ -37,5 +37,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me : 
+I am a Machine Learning Engineer <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XW4_NEi2--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qky7jxrn69tqt1gaxbmm.gif" width="30"> from Russia.
+
 

@@ -8,7 +8,7 @@
   </a>
     
    <a href="https://t.me/kocharyan_x_armen">
-    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=blue" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
     
 </div>

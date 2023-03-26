@@ -46,6 +46,5 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time I read articles on [habr](https://habr.com/ru/all/) and solve algorithmic problems on Yandex contest.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 

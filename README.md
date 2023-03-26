@@ -38,6 +38,6 @@
 ---
 
 ### :man_technologist: About Me : 
-I am a Machine Learning Engineer <img src="https://engineering.giphy.com/wp-content/uploads/2021/01/giphy.gif" width="100"> from Russia.
+I am a Machine Learning Engineer <img src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif" width="30"> from Russia.
 
 

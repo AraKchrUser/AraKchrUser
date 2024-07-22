@@ -45,7 +45,7 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :student: [ITMO University](https://en.itmo.ru/) student
 
-- :hammer_and_wrench: My area of interest is TTS/NLP.
+- :hammer_and_wrench: My area of interest is NLP/ASR/TTS.
 
 - :zap: In my free time I read articles on [habr](https://habr.com/ru/all/)
 

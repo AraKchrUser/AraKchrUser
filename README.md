@@ -10,10 +10,13 @@
    <a href="mailto:armen0101017@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-    
+
+
+  <!---# 
   <a href="https://leetcode.com/armen0101017/">
     <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=black&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
+  -->
     
 </div>
   
@@ -44,7 +47,10 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :hammer_and_wrench: My area of interest is TTS/NLP.
 
-- :zap: In my free time I read articles on [habr](https://habr.com/ru/all/) and solve algorithmic problems on Yandex contest.
+- :zap: In my free time I read articles on [habr](https://habr.com/ru/all/)
 
+<!---# 
+and solve algorithmic problems on Yandex contest.
+-->
 
 

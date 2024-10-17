@@ -40,6 +40,7 @@
 
 ---
 
+<!---#
 ### :man_technologist: About Me : 
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia.
 
@@ -48,8 +49,7 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 - :hammer_and_wrench: My area of interest is NLP/ASR/TTS.
 
 - :zap: In my free time I read articles on [habr](https://habr.com/ru/all/)
-
-<!---# 
+ 
 and solve algorithmic problems on Yandex contest.
 -->
 
